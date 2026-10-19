@@ -1,9 +1,9 @@
 # simple-weather-data-format
 Simple data formatting project in C from .txt file
 
-/* README
+README
 # - Project 2
-This repository contains the source code of Project 2 in C, for module ENG1008-Programming EDE[22/23 T1].
+This repository contains the source code of Project 2 in C
 
 # - Assignment brief
 - To read in sensor data into single and multidimensional arrays;
@@ -18,7 +18,7 @@ The program checks for the .txt file named "proj2.txt" from the project folder a
 Users can also opt to use I/O redirection to a .txt file through cmd in the project folder where the .exe file is located using the command line "> project2.exe < proj2.txt".
 The .exe file can be found by compiling and navigating from the project folder to '...bin/Debug/project2'.
 
-The program will display readings analyzed with the input from proj2.txt file for 3 months at once*/
+The program will display readings analyzed with the input from proj2.txt file for 3 months at once
 
 
 //P.S. run the program in full screen so as to ensure the output is correctly displayed as intended.
