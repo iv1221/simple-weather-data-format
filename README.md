@@ -1,8 +1,4 @@
-# simple-weather-data-format
-Simple data formatting project in C from .txt file
-
-README
-# Project 2
+# Project
 This repository contains the source code of Project 2 in C
 
 # Assignment brief
