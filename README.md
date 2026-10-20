@@ -1,7 +1,7 @@
 # Project
 This repository contains the source code of Project 2 in C
 
-# Assignment brief
+# Objectives
 - To read in sensor data into single and multidimensional arrays;
 - To carry out data analysis on it
 
